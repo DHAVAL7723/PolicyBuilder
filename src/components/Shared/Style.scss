@@ -1,0 +1,13 @@
+.btn-link, .nav-link {
+  color : #fff !important;
+  &:hover {
+    color : #fff !important;
+    text-decoration: none !important;
+    }
+}
+.dropdown-menu a {
+  color: #000 !important;
+  &:hover {
+    color : #000 !important;
+  }
+}

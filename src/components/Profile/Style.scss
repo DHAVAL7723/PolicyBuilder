@@ -1,0 +1,12 @@
+.nav-tabs a {
+  color: #000 !important;
+  cursor: pointer;
+  &:hover {
+    color : #000 !important;
+    text-decoration: none !important;
+  }
+}
+.tab-content {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
